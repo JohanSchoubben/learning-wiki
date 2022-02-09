@@ -50,4 +50,4 @@
 
 * Kafka
 * Druid
-* Cassandra
+* Cassandra [link](#topics-scheduled-for-review)
