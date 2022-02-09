@@ -22,6 +22,12 @@ Using project exercise 'RealJobs' as starting point
 * Angular Tutorial ([TekTutorialsHub](https://www.tektutorialshub.com/angular-tutorial/))
 * PrimeNG - Angular UI [Component library](https://www.primefaces.org/primeng/showcase/#/)
 
+### Spring Security
+
+* Security with Spring tutorials on [baeldung.com](https://www.baeldung.com/security-spring)  
+Core security, registration, authentication, OAuth2, RestTemplate, Exceptions
+* RestTemplate and basic authentication ([article on baeldung.com](https://www.baeldung.com/how-to-use-resttemplate-with-basic-authentication-in-spring))
+
 ### SQL
 
 * O'Reilly courses
