@@ -4,10 +4,10 @@
 
 #### Spring Data
 
-* Multiple datasources
+* Multiple data sources
   * Example [repository](https://github.com/jahe/spring-boot-multiple-datasources) on GitHub
-  * Using multiple datasources with Spring Boot ([article](https://medium.com/@joeclever/using-multiple-datasources-with-spring-boot-and-spring-data-6430b00c02e7))
-  * Integration testing multiple datasources in Spring Boot ([article](https://medium.com/@joeclever/integration-testing-multiple-datasources-in-spring-boot-and-spring-data-with-spock-f88e1428ce9f))
+  * Using multiple data sources with Spring Boot ([article](https://medium.com/@joeclever/using-multiple-datasources-with-spring-boot-and-spring-data-6430b00c02e7))
+  * Integration testing multiple data sources in Spring Boot ([article](https://medium.com/@joeclever/integration-testing-multiple-datasources-in-spring-boot-and-spring-data-with-spock-f88e1428ce9f))
 
 #### Rest API
 
@@ -46,8 +46,8 @@
 
 #### Maven
 
-#### Microservices
+#### Microservices  [back to top](#topics-scheduled-for-review)
 
 * Kafka
 * Druid
-* Cassandra [link](#topics-scheduled-for-review)
+* Cassandra
