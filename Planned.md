@@ -1,7 +1,5 @@
 [[_TOC_]]
 
-### Topics scheduled for review
-
 #### Spring Data
 
 * Multiple data sources
@@ -46,7 +44,7 @@
 
 #### Maven
 
-#### Microservices  [back to top](#topics-scheduled-for-review)
+#### Microservices
 
 * Kafka
 * Druid
