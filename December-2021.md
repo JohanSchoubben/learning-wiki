@@ -2,6 +2,7 @@
 
 * VDAB
     * Domain Driven Design (DDD)
+        * [whitepaper_DDD__CQRS_and_Event_Sourcing_Explained.pdf](uploads/ede5822c9375bdca7c3ae408eba6c96c/whitepaper_DDD__CQRS_and_Event_Sourcing_Explained.pdf)
     * CQRS and Event Sourcing
       * [Architectural concepts](https://axoniq.io/resources/architectural-concepts) in context of Axon Platform
     * Axon Framework
@@ -15,4 +16,4 @@
       * Hibernate Envers [documentation](https://docs.jboss.org/hibernate/orm/current/userguide/html_single/Hibernate_User_Guide.html#envers) (as part of Hibernate documentation)
       * Envers community [reference documentation](https://docs.jboss.org/envers/docs/)
       * Thorben Janssen's [series of blogs](https://thorben-janssen.com/category/hibernate/hibernate-envers/) on Envers
-      * [The Reactive Principles](https://principles.reactive.foundation/) - Articles on cloud native design principles, on reactive principles and reactive patterns[whitepaper_DDD__CQRS_and_Event_Sourcing_Explained.pdf](uploads/77299211dd977f19c04ffa40f486fc5b/whitepaper_DDD__CQRS_and_Event_Sourcing_Explained.pdf)
+      * [The Reactive Principles](https://principles.reactive.foundation/) - Articles on cloud native design principles, on reactive principles and reactive patterns
