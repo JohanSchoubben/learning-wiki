@@ -5,7 +5,7 @@
 ### Prepare interviews
 
 * Engie
-  * SQL advanced querying
+  * SQL advanced querying ([see: SQL-topic](#sql))
   * IBM application suite 'Maximo'
     * IBM Maximo [documentation](https://www.ibm.com/docs/en/mas)
     * IBM Maximo fundamentals [training](https://www.ibm.com/training/course/U5TR572G)
