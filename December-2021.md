@@ -22,11 +22,10 @@
 ### Log4J vulnerability
 
 * Snyk - Log4j vulnerability [resources](https://snyk.io/log4j-vulnerability-resources/) to find and fix Log4Shell
-* Snyk - Log4j security [blog](https://snyk.io/blog/new-log4j-2-17-1-fixes-cve-2021-44832-remote-code-execution-but-its-not-as-bad-as-it-sounds/)
+* Snyk - Log4j security ([blog](https://snyk.io/blog/new-log4j-2-17-1-fixes-cve-2021-44832-remote-code-execution-but-its-not-as-bad-as-it-sounds/))
 * Snyk - Find vulnerabilities in unmanaged and shaded jars with [Snyk CLI](https://snyk.io/blog/new-snyk-cli-command-finds-log4shell-in-unmanaged-undeclared-java-code/)
-* Spring Blog - Log4j vulnearbility and Spring Boot [article](https://spring.io/blog/2021/12/10/log4j2-vulnerability-and-spring-boot)
-* Sophos - Log4Shell explained [article](https://nakedsecurity.sophos.com/2021/12/13/log4shell-explained-how-it-works-why-you-need-to-know-and-how-to-fix-it/)
+* Spring Blog - Log4j vulnearbility and Spring Boot ([article](https://spring.io/blog/2021/12/10/log4j2-vulnerability-and-spring-boot))
+* Sophos - Log4Shell explained ([article](https://nakedsecurity.sophos.com/2021/12/13/log4shell-explained-how-it-works-why-you-need-to-know-and-how-to-fix-it/))
 * [LunaSec guide](https://www.lunasec.io/docs/blog/log4j-zero-day-mitigation-guide/#option-4-remote-live-patch-for-servers) - How to detect and mitigate the Log4Shell vulnerability
 * NCSC-NL - [Overview of software](https://github.com/NCSC-NL/log4shell/blob/main/software/README.md) (un)affected by Log4J & repository [on GitHub](https://github.com/NCSC-NL/log4shell/releases)
-* Bitdefender Technical Advisory - Zero-day critical vulnerability in Log4j [article](https://businessinsights.bitdefender.com/technical-advisory-zero-day-critical-vulnerability-in-log4j2-exploited-in-the-wild)
-* 
+* Bitdefender Technical Advisory - Zero-day critical vulnerability in Log4j ([article](https://businessinsights.bitdefender.com/technical-advisory-zero-day-critical-vulnerability-in-log4j2-exploited-in-the-wild))
