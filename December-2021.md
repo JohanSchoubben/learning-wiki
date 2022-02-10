@@ -2,7 +2,8 @@
 
 * VDAB
     * Domain Driven Design (DDD)
-        * [whitepaper_DDD__CQRS_and_Event_Sourcing_Explained.pdf](uploads/ede5822c9375bdca7c3ae408eba6c96c/whitepaper_DDD__CQRS_and_Event_Sourcing_Explained.pdf)
+        * [Whitepaper - DDD, CQRS and Event Sourcing Explained (pdf)](uploads/ede5822c9375bdca7c3ae408eba6c96c/whitepaper_DDD__CQRS_and_Event_Sourcing_Explained.pdf)
+        * Dan Haywood - An introduction to Domain Driven Design ([pdf](https://www.mathcs.emory.edu/~cengiz/cs540-485-soft-eng-fa14/resources/domain-driven-design.pdf))
     * CQRS and Event Sourcing
       * [Architectural concepts](https://axoniq.io/resources/architectural-concepts) in context of Axon Platform
     * Axon Framework
