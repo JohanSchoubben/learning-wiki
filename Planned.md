@@ -29,6 +29,10 @@
 * Jira
 * Artifactory
 * Sonar
+* Docker
+  * Gabriel Schenker - Fundamentals of Docker 18.x (2018) ([book on O'Reilly](https://learning.oreilly.com/library/view/learn-docker/9781788997027/6))
+* OpenShift
+  * Stefano Picozzi - DevOps with OpenShift (2017) ([book on O'Reilly](https://learning.oreilly.com/library/view/devops-with-openshift/9781491975954/))
 
 #### Low Code
 
@@ -37,6 +41,8 @@
 #### Databases
 
 * SQL
+  * Thomas Nield - SQL for analystics - Expanding analytics in relational databases (2019) ([book on O'Reilly](https://learning.oreilly.com/learning-paths/learning-path-sql/9781492058090/))
+  * John Viescas - SQL queries for mere mortals (4th edition - 2018) ([book on O'Reilly](https://learning.oreilly.com/library/view/sql-queries-for/9780134858432/))
 * NoSql
 * JDBC and Hibernate
 * Hibernate Envers
@@ -63,8 +69,8 @@
 
 #### Best Practices
 
-* Clean code
-* Clean architecture
+* Robert Martin - Clean code (2008) ([book on O'Reilly](https://learning.oreilly.com/library/view/clean-code-a/9780136083238/))
+* Robert Martin - Clean architecture (2017) ([book on O'Reilly](https://learning.oreilly.com/library/view/clean-architecture-a/9780134494272/))
 
 #### Performance
 

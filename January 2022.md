@@ -42,5 +42,11 @@ Core security, registration, authentication, OAuth2, RestTemplate, Exceptions
 
 ### SQL
 
-* O'Reilly courses
-  * [Course 1]()
+* O'Reilly courses and books
+  * Anthony DeBarros - Practical SQL (2nd edition - 2022) ([book on O'Reilly](https://learning.oreilly.com/library/view/practical-sql-2nd/9781098129866/))
+  * Anthony Molinaro - SQL Cookbook (2nd edition - 2020) ([book on O'Reilly](https://learning.oreilly.com/library/view/sql-cookbook-2nd/9781492077435/))
+  * Allen Taylor - Intermediate to advanced SQL (2018) ([video on O'Reilly](https://learning.oreilly.com/videos/intermediate-to-advanced/9781484239780/))
+  * Danny Ma - SQL Scenarios (2021) ([expert playlist on O'Reilly](https://learning.oreilly.com/playlists/187bf25e-4b6f-4ae0-86db-37c5f69a3f63/))
+  * Thomas Nield - SQL for data analysis and database design (2019) ([book on O'Reilly](https://learning.oreilly.com/learning-paths/learning-path-sql/9781492058076/))
+  * Thomas Nield - SQL for analystics - Expanding analytics in relational databases (2019) ([book on O'Reilly](https://learning.oreilly.com/learning-paths/learning-path-sql/9781492058090/))
+  * John Viescas - SQL queries for mere mortals (4th edition - 2018) ([book on O'Reilly](https://learning.oreilly.com/library/view/sql-queries-for/9780134858432/))
