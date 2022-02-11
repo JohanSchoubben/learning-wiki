@@ -45,14 +45,31 @@
 #### Testing
 
 * Testing in Angular
-* Cucumber Testing Framework
+* Testing in Spring Boot
+  * Integration testing with RestAssured and Cucumber - [Tutorial on QA Automation Expert](https://qaautomation.expert/2021/02/22/springboot-tutorials/)
+* Behavior Driven Development (BDD)
+  * Cucumber Testing Framework
+    * [Cucumber's home page](https://cucumber.io/)
+    * Cucumber tutorial on [QA Automation Expert](https://qaautomation.expert/2020/11/26/cucumber-tutorials/)
+    * John Smart - BDD in action ([book on O'Reilly](https://learning.oreilly.com/library/view/bdd-in-action/9781617291654/))
+  * *Serenity library* 
+    * *The Serenity Book - [Serenity documentation page](https://serenity-bdd.github.io/theserenitybook/latest/index.html)*
+    * *Serenity tutorial on [QA Automation Expert](https://qaautomation.expert/2021/02/08/serenity-bdd-tutorials/)*
+  * RestAssured
+    * RestAssured tutorial on [QA Automation Expert](https://qaautomation.expert/2021/05/22/rest-assured-tutorials/)
+* Selenium
+  * Selenium [documentation](https://www.selenium.dev/documentation/)
+  * Selenium tutorial on [QA Automation Expert](https://qaautomation.expert/2020/11/26/selenium-tutorials/)
 
 #### Best Practices
 
 * Clean code
 * Clean architecture
 
-#### Maven
+#### Performance
+
+* Apache JMeter
+  * JMeter tutorial on [QA Automation Expert](https://qaautomation.expert/2020/11/26/jmeter-tutorials/)
 
 #### Microservices
 
