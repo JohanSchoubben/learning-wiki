@@ -1,4 +1,8 @@
- ### Prepare interviews
+**Table of content**
+
+[[_TOC_]]
+
+### Prepare interviews
 
 * VDAB
     * Domain Driven Design (DDD)
