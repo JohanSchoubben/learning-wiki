@@ -37,6 +37,13 @@
 #### Low Code
 
 * Mendix ([Home page](https://www.mendix.com/))
+  * Mendix Digital Execution Manual ([pdf](https://research.mendix.com/c/digital-execution-manual?x=Ayo0w3))
+  * Mendix [documentation](https://docs.mendix.com/)
+  * Mendix [blog](https://www.mendix.com/blog/)
+  * Mendix resources
+    * Become a [rapid developer](https://academy.mendix.com/link/paths/31/Become-a-Rapid-Developer)
+    * [Crash course](https://academy.mendix.com/link/paths/82/Crash-Course) for developers
+    * Webinars and [example apps](https://academy.mendix.com/link/webinars)
 
 #### Databases
 
