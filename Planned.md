@@ -82,3 +82,11 @@
 * Kafka
 * Druid
 * Cassandra
+
+#### Domain Drive Design (DDD)
+
+* Vaughn Vernon - Implementing DDD (2013) ([book on O'Reilly](https://learning.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/))
+
+#### Architecture
+
+* Mark Richards - Fundamentals of software architecture (2020) ([book on O'Reilly](https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/))
