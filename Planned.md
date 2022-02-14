@@ -78,6 +78,8 @@
 
 * Robert Martin - Clean code (2008) ([book on O'Reilly](https://learning.oreilly.com/library/view/clean-code-a/9780136083238/))
 * Robert Martin - Clean architecture (2017) ([book on O'Reilly](https://learning.oreilly.com/library/view/clean-architecture-a/9780134494272/))
+* Eric Freemand - Head First Design Patterns (2nd edition - 2020) ([book on O'Reilly](https://learning.oreilly.com/library/view/head-first-design/9781492077992/))
+* Joshua Bloch - Effective Java (2017) ([book on O'Reilly](https://learning.oreilly.com/library/view/effective-java/9780134686097/))
 
 #### Performance
 
@@ -97,3 +99,17 @@
 #### Architecture
 
 * Mark Richards - Fundamentals of software architecture (2020) ([book on O'Reilly](https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/))
+
+#### Java
+
+* Kathy Sierra - Head First Java (3rd edition - 2022) ([book on O'Reilly](https://learning.oreilly.com/library/view/head-first-java/9781492091646/))  
+Includes updates for Java 17
+* Joshua Bloch - Java concurrency in pratice (2006) ([book on O'Reilly])(https://learning.oreilly.com/library/view/java-concurrency-in/0321349601/)
+* Johsua Bloch - Java Puzzlers: traps, pitfalls and corner cases (2005) ([book on O'Reilly](https://learning.oreilly.com/library/view/java-puzzlers-traps/032133678X/))
+* Maurice Naftalin - Java Generics and Collections (2006) ([book on O'Reilly](https://learning.oreilly.com/library/view/java-generics-and/0596527756/))
+* Scott Oaks - Java Performance (2nd edition - 2020) ([book on O'Reilly](https://learning.oreilly.com/library/view/java-performance-2nd/9781492056102/))
+* Brett McLaughlin - Head First Object-Oriented Analysis & Design (2006) ([book on O'Reilly](https://learning.oreilly.com/library/view/head-first-object-oriented/0596008678/))
+* Cay Horstmann - Core Java - Fundamentals (12th edition - 2021) ([book on O'Reilly](https://learning.oreilly.com/library/view/core-java-volume/9780137673810/))  
+Updated for Java 17
+* Cay Horstmann - Core Java - Advanced features (12th edition - 2022) ([book on O'Reilly](https://learning.oreilly.com/library/view/core-java-vol/9780137870899/))  
+Updated for Java 17
