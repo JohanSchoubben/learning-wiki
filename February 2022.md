@@ -21,5 +21,5 @@
 
 ### Git
 
-* Alan Hohn - Conversational git: a compact guide on git ([conversation git website](http://blog.anvard.org/conversational-git/))
+* Alan Hohn - Conversational git: a compact guide on git ([guide on his website](http://blog.anvard.org/conversational-git/))
 * Scott Chacon - Pro git ([e-book on git-scm.com](http://git-scm.com/book/en/v2))
