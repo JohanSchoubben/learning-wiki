@@ -18,4 +18,11 @@
 
 ### DevOps
 
-* Pipelines
+* Docker tutorial [on YouTube](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+
+### Java
+
+* Java Design Patterns ([tutorial on JournalDev](https://www.journaldev.com/1827/java-design-patterns-example-tutorial))
+* How to pass the OCP SE 11 certification ([blog by Rafael Ramao](https://blog.avenuecode.com/how-to-pass-the-ocp-java-se-11-certification))
+* Java certification: a practical guide for developers ([blog on freeCodeCamp](https://www.freecodecamp.org/news/how-to-pass-oracles-java-certifications-a-practical-guide-for-developers-e9b607ba6173/))
+* [Blog](https://www.selikoff.net/) of Selikoff and Boyarski on Java in general and on certification
