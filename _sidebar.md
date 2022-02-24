@@ -3,5 +3,6 @@
 [January 2022](https://gitlab.com/JohanSchoubben/learning-log/-/wikis/January-2022)  
 [February 2022](https://gitlab.com/JohanSchoubben/learning-log/-/wikis/February-2022)  
 [March 2022](https://gitlab.com/JohanSchoubben/learning-log/-/wikis/March-2022)  
+[April 2022](https://gitlab.com/JohanSchoubben/learning-log/-/wikis/April-2022)  
 [Planned](https://gitlab.com/JohanSchoubben/learning-log/-/wikis/Planned)  
 [Knowledge base](https://gitlab.com/JohanSchoubben/learning-log/-/wikis/Knowledge-base)  
