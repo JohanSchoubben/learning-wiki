@@ -18,7 +18,7 @@
 
 ### Domain Driven Design (DDD)
 
-* Vaughn Vernon - Implementing DDD ([book on O'Reilly](https://learning.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/))
+* Vaughn Vernon - Implementing DDD (2013) ([book on O'Reilly](https://learning.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/))
 
 ### DevOps
 
