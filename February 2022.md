@@ -2,14 +2,18 @@
 
 [[_TOC_]]
 
+### Prepare interviews
+
+* No interviews to prepare
+
 ### Webinars
 
 * Offline first - Progressive web apps (JUVO)
 
 ### Domain Driven Design (DDD)
 
-* Basic CQRS and Event Sourcing ([article on Baeldung.com]())
-* CQRS and Event Sourcing using Axon Server ([Course on Udemy]())
+* Basic CQRS and Event Sourcing ([article on Baeldung.com](https://www.baeldung.com/cqrs-event-sourcing-java))
+* CQRS and Event Sourcing using Axon Server ([Course on Udemy](https://www.udemy.com/course/spring-boot-microservices-cqrs-saga-axon-framework/))
 
 ### Test Driven Development (TDD)
 
