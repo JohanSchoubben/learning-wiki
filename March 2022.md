@@ -4,6 +4,10 @@
 
 ### Prepare interviews
 
+### SQL
+
+* Vlad Mihalcea - High performance SQL ([course on his website](https://vladmihalcea.teachable.com/))
+
 ### Spring
 
 * Vlad Mihalcea - A series of [blog articles](https://vladmihalcea.com/tutorials/spring/) on pagination, configuration, schema migration, ...
