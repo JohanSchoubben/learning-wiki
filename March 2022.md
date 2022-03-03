@@ -4,6 +4,8 @@
 
 ### Prepare interviews
 
+###
+
 ### SQL
 
 * Vlad Mihalcea - High performance SQL ([course on his website](https://vladmihalcea.teachable.com/))

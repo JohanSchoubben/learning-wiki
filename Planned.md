@@ -2,7 +2,11 @@
 
 [[_TOC_]]
 
-#### Spring Data
+### Log4j
+
+* How to check Java projects for vulnerable version of log4j ([article on dzone.com](https://dzone.com/articles/checking-java-project-dependency-on-log4j-vulnerability))
+
+### Spring Data
 
 * Multiple data sources
   * Example [repository](https://github.com/jahe/spring-boot-multiple-datasources) on GitHub
@@ -11,19 +15,19 @@
 * Exists query
   * The best way to write a Spring Data Exists query ([article by Vlad Mihalcea](https://vladmihalcea.com/spring-data-exists-query/?utm_source=Vlad+Mihalcea%27s+Newsletter&utm_campaign=810c4db453-EMAIL_CAMPAIGN_2019_01_16_07_29_COPY_01&utm_medium=email&utm_term=0_7a1c643a85-810c4db453-219374602))
 
-#### Spring configuration
+### Spring configuration
 
 * Spring Boot application properties ([article by Vlad Mihalcea](https://vladmihalcea.com/spring-boot-application-properties/?utm_source=Vlad+Mihalcea%27s+Newsletter&utm_campaign=a6a2010cea-EMAIL_CAMPAIGN_2019_01_16_07_29_COPY_01&utm_medium=email&utm_term=0_7a1c643a85-a6a2010cea-219374602))
 
-#### Rest API
+### Rest API
 
 * Swagger
 
-#### Tools
+### Tools
 
 * Jira ([Homepage](https://www.atlassian.com/software/jira))
 
-#### DevOps
+### DevOps
 
 * Pipelines
 * GitFlow
@@ -36,7 +40,7 @@
 * OpenShift
   * Stefano Picozzi - DevOps with OpenShift (2017) ([book on O'Reilly](https://learning.oreilly.com/library/view/devops-with-openshift/9781491975954/))
 
-#### Low Code
+### Low Code
 
 * Mendix ([Home page](https://www.mendix.com/))
   * Mendix Digital Execution Manual ([pdf](https://research.mendix.com/c/digital-execution-manual?x=Ayo0w3))
@@ -47,7 +51,7 @@
     * [Crash course](https://academy.mendix.com/link/paths/82/Crash-Course) for developers
     * Webinars and [example apps](https://academy.mendix.com/link/webinars)
 
-#### Databases
+### Databases
 
 * SQL
   * Thomas Nield - SQL for analystics - Expanding analytics in relational databases (2019) ([book on O'Reilly](https://learning.oreilly.com/learning-paths/learning-path-sql/9781492058090/))
@@ -57,7 +61,7 @@
 * Hibernate Envers
 * Flyway
 
-#### Testing
+### Testing
 
 * Testing in Angular
 * Testing in Spring Boot
@@ -76,33 +80,33 @@
   * Selenium [documentation](https://www.selenium.dev/documentation/)
   * Selenium tutorial on [QA Automation Expert](https://qaautomation.expert/2020/11/26/selenium-tutorials/)
 
-#### Best Practices
+### Best Practices
 
 * Robert Martin - Clean code (2008) ([book on O'Reilly](https://learning.oreilly.com/library/view/clean-code-a/9780136083238/))
 * Robert Martin - Clean architecture (2017) ([book on O'Reilly](https://learning.oreilly.com/library/view/clean-architecture-a/9780134494272/))
 * Eric Freemand - Head First Design Patterns (2nd edition - 2020) ([book on O'Reilly](https://learning.oreilly.com/library/view/head-first-design/9781492077992/))
 * Joshua Bloch - Effective Java (2017) ([book on O'Reilly](https://learning.oreilly.com/library/view/effective-java/9780134686097/))
 
-#### Performance
+### Performance
 
 * Apache JMeter
   * JMeter tutorial on [QA Automation Expert](https://qaautomation.expert/2020/11/26/jmeter-tutorials/)
 
-#### Microservices
+### Microservices
 
 * Kafka
 * Druid
 * Cassandra
 
-#### Domain Drive Design (DDD)
+### Domain Drive Design (DDD)
 
 * Vaughn Vernon - Implementing DDD (2013) ([book on O'Reilly](https://learning.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/))
 
-#### Architecture
+### Architecture
 
 * Mark Richards - Fundamentals of software architecture (2020) ([book on O'Reilly](https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/))
 
-#### Java
+### Java
 
 * Kathy Sierra - Head First Java (3rd edition - 2022) ([book on O'Reilly](https://learning.oreilly.com/library/view/head-first-java/9781492091646/))  
 Includes updates for Java 17
@@ -116,6 +120,6 @@ Updated for Java 17
 * Cay Horstmann - Core Java - Advanced features (12th edition - 2022) ([book on O'Reilly](https://learning.oreilly.com/library/view/core-java-vol/9780137870899/))  
 Updated for Java 17
 
-#### Angular
+### Angular
 
 * Topics & resources of [NG-BE 2021 conference](https://www.continuum.be/blog/ng-be-conference-2021/)
