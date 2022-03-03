@@ -8,6 +8,8 @@
   * Example [repository](https://github.com/jahe/spring-boot-multiple-datasources) on GitHub
   * Using multiple data sources with Spring Boot ([article](https://medium.com/@joeclever/using-multiple-datasources-with-spring-boot-and-spring-data-6430b00c02e7))
   * Integration testing multiple data sources in Spring Boot ([article](https://medium.com/@joeclever/integration-testing-multiple-datasources-in-spring-boot-and-spring-data-with-spock-f88e1428ce9f))
+* Exists query
+  * The best way to write a Spring Data Exists query ([article by Vlad Mihalcea](https://vladmihalcea.com/spring-data-exists-query/?utm_source=Vlad+Mihalcea%27s+Newsletter&utm_campaign=810c4db453-EMAIL_CAMPAIGN_2019_01_16_07_29_COPY_01&utm_medium=email&utm_term=0_7a1c643a85-810c4db453-219374602))
 
 #### Spring configuration
 
