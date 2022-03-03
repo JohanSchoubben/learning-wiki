@@ -113,3 +113,7 @@ Includes updates for Java 17
 Updated for Java 17
 * Cay Horstmann - Core Java - Advanced features (12th edition - 2022) ([book on O'Reilly](https://learning.oreilly.com/library/view/core-java-vol/9780137870899/))  
 Updated for Java 17
+
+#### Angular
+
+* Topics & resources of [NG-BE 2021 conference](https://www.continuum.be/blog/ng-be-conference-2021/)
