@@ -11,7 +11,7 @@
 * Vlad Mihalcea - High performance SQL ([course on his website](https://vladmihalcea.teachable.com/))
 * Daniel Nichter - Efficient SQL performance (2021) ([book on O'Reilley](https://learning.oreilly.com/library/view/efficient-mysql-performance/9781098105082/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20220314+data+ai+nl&mkt_tok=MTA3LUZNUy0wNzAAAAGDJ0aOIg0QW04YOBOaGF2sYNW1mWu2mUBlxrZesabKzyqah1YlHQ7Fe4qAkQ7KFHWrV4eKOM3g3hpDV4EX8IFwyZ935Bg73TFDp2zM408NjbXodJ2t))
 * Daniel Nichter - Hack MySql ([author's website with book related blog posts](https://hackmysql.com/))
-* Cockroach Labs - What is distributed SQL? ([report][oreilly-report-what-is-distributed-sql.pdf](uploads/4ced01dc93336e17c1240fdd88674544/oreilly-report-what-is-distributed-sql.pdf))
+* Cockroach Labs - What is distributed SQL? ([PDF](uploads/4ced01dc93336e17c1240fdd88674544/oreilly-report-what-is-distributed-sql.pdf))
 
 ### Spring
 
