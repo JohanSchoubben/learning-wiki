@@ -8,6 +8,7 @@
 
 ### SQL
 
+* SQL practice database on [w3resource](https://www.w3resource.com/sql/sql-table.php)
 * Vlad Mihalcea - High performance SQL ([course on his website](https://vladmihalcea.teachable.com/))
 * Daniel Nichter - Efficient SQL performance (2021) ([book on O'Reilley](https://learning.oreilly.com/library/view/efficient-mysql-performance/9781098105082/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20220314+data+ai+nl&mkt_tok=MTA3LUZNUy0wNzAAAAGDJ0aOIg0QW04YOBOaGF2sYNW1mWu2mUBlxrZesabKzyqah1YlHQ7Fe4qAkQ7KFHWrV4eKOM3g3hpDV4EX8IFwyZ935Bg73TFDp2zM408NjbXodJ2t))
 * Daniel Nichter - Hack MySql ([author's website with book related blog posts](https://hackmysql.com/))
