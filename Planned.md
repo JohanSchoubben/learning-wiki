@@ -9,7 +9,7 @@
 * Robert Martin - Clean architecture (2017) ([book on O'Reilly](https://learning.oreilly.com/library/view/clean-architecture-a/9780134494272/))
 * Joshua Bloch - Effective Java (2017) ([book on O'Reilly](https://learning.oreilly.com/library/view/effective-java/9780134686097/))
 * Clean Coder - Robert Martin (2011) ([book on O'Reilly](https://learning.oreilly.com/library/view/clean-coder-the/9780132542913/))
-* Clean Agile - Robert Martin (2020) ([book on O'Reilly](https://learning.oreilly.com/library/view/clean-agile/9783747501139/))
+* Clean Agile - Robert Martin (2020) ([book on O'Reilly](https://learning.oreilly.com/library/view/clean-agile/9783747501139/0))
 
 ### Log4j
 
