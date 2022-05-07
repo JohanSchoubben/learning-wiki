@@ -2,6 +2,13 @@
 
 [[_TOC_]]
 
+### Best Practices
+
+* The Pragmatic Programmer - David Thomas, Andrew Hunt (2nd edition - 2019) ([book on O'Reilly](https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/))
+* Robert Martin - Clean code (2008) ([book on O'Reilly](https://learning.oreilly.com/library/view/clean-code-a/9780136083238/))
+* Robert Martin - Clean architecture (2017) ([book on O'Reilly](https://learning.oreilly.com/library/view/clean-architecture-a/9780134494272/))
+* Joshua Bloch - Effective Java (2017) ([book on O'Reilly](https://learning.oreilly.com/library/view/effective-java/9780134686097/))
+
 ### Log4j
 
 * How to check Java projects for vulnerable version of log4j ([article on dzone.com](https://dzone.com/articles/checking-java-project-dependency-on-log4j-vulnerability))
@@ -25,7 +32,7 @@
 
 ### Tools
 
-* Jira ([Homepage](https://www.atlassian.com/software/jira))
+
 
 ### DevOps
 
@@ -39,17 +46,6 @@
   * Gabriel Schenker - Fundamentals of Docker 18.x (2018) ([book on O'Reilly](https://learning.oreilly.com/library/view/learn-docker/9781788997027/6))
 * OpenShift
   * Stefano Picozzi - DevOps with OpenShift (2017) ([book on O'Reilly](https://learning.oreilly.com/library/view/devops-with-openshift/9781491975954/))
-
-### Low Code
-
-* Mendix ([Home page](https://www.mendix.com/))
-  * Mendix Digital Execution Manual ([pdf](https://research.mendix.com/c/digital-execution-manual?x=Ayo0w3))
-  * Mendix [documentation](https://docs.mendix.com/)
-  * Mendix [blog](https://www.mendix.com/blog/)
-  * Mendix resources
-    * Become a [rapid developer](https://academy.mendix.com/link/paths/31/Become-a-Rapid-Developer)
-    * [Crash course](https://academy.mendix.com/link/paths/82/Crash-Course) for developers
-    * Webinars and [example apps](https://academy.mendix.com/link/webinars)
 
 ### Databases
 
@@ -79,13 +75,6 @@
 * Selenium
   * Selenium [documentation](https://www.selenium.dev/documentation/)
   * Selenium tutorial on [QA Automation Expert](https://qaautomation.expert/2020/11/26/selenium-tutorials/)
-
-### Best Practices
-
-* Robert Martin - Clean code (2008) ([book on O'Reilly](https://learning.oreilly.com/library/view/clean-code-a/9780136083238/))
-* Robert Martin - Clean architecture (2017) ([book on O'Reilly](https://learning.oreilly.com/library/view/clean-architecture-a/9780134494272/))
-* Eric Freemand - Head First Design Patterns (2nd edition - 2020) ([book on O'Reilly](https://learning.oreilly.com/library/view/head-first-design/9781492077992/))
-* Joshua Bloch - Effective Java (2017) ([book on O'Reilly](https://learning.oreilly.com/library/view/effective-java/9780134686097/))
 
 ### Performance
 
