@@ -10,9 +10,10 @@
 * Maven by example: an example-driven introduction [on Sonatype](https://books.sonatype.com/mvnex-book/reference/public-book.html)
 * Maven: the complete reference [on Sonatype](https://books.sonatype.com/mvnref-book/reference/index.html)
 
-### Jave & Spring
+### Jave & related topics
 
-* Blogs and guides [from Marco Behler](https://www.marcobehler.com/)
+* Blogs and guides from [Marco Behler](https://www.marcobehler.com/)
+* Blog from [Dieter Jordens](https://www.dieterjordens.com/articles)
 
 ### Awesome list
 
