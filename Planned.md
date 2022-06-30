@@ -2,6 +2,13 @@
 
 [[_TOC_]]
 
+### O'Reilly courses on must-have skills
+
+* [DevOps](https://learning.oreilly.com/courses/devops-engineer/?utm_medium=email&utm_source=platform+b2b&utm_campaign=on+demand+courses&utm_content=20220601+target+em1)
+* [Software Developer](https://learning.oreilly.com/courses/software-developer/?utm_medium=email&utm_source=platform+b2b&utm_campaign=on+demand+courses&utm_content=20220601+target+em1)
+* [Cybersecurity](https://learning.oreilly.com/courses/cybersecurity-engineer/)
+* [Java Developer](https://learning.oreilly.com/courses/java-developer)
+
 ### Best Practices
 
 * The Pragmatic Programmer - David Thomas, Andrew Hunt (2nd edition - 2019) ([book on O'Reilly](https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/))
@@ -21,7 +28,7 @@
   * Example [repository](https://github.com/jahe/spring-boot-multiple-datasources) on GitHub
   * Using multiple data sources with Spring Boot ([article](https://medium.com/@joeclever/using-multiple-datasources-with-spring-boot-and-spring-data-6430b00c02e7))
   * Integration testing multiple data sources in Spring Boot ([article](https://medium.com/@joeclever/integration-testing-multiple-datasources-in-spring-boot-and-spring-data-with-spock-f88e1428ce9f))
-* Exists query
+  * Exists query
   * The best way to write a Spring Data Exists query ([article by Vlad Mihalcea](https://vladmihalcea.com/spring-data-exists-query/?utm_source=Vlad+Mihalcea%27s+Newsletter&utm_campaign=810c4db453-EMAIL_CAMPAIGN_2019_01_16_07_29_COPY_01&utm_medium=email&utm_term=0_7a1c643a85-810c4db453-219374602))
 
 ### Spring configuration
