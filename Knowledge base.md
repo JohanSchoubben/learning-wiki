@@ -15,6 +15,7 @@
 * Blogs and guides from [Marco Behler](https://www.marcobehler.com/)
 * Blog from [Dieter Jordens](https://www.dieterjordens.com/articles)
 * Articles and tutorials on [jenkov.com](https://jenkov.com/)
+* Design patterns on [StackAbuse](https://stackabuse.com/design-patterns-in-java/)
 
 ### Awesome list
 
