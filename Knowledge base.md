@@ -2,6 +2,10 @@
 
 [[_TOC_]]
 
+### Spring Boot
+
+* Spring Boot Reference Documentation - [Homepage](https://docs.spring.io/spring-boot/docs/2.7.2/reference/htmlsingle/)
+
 ### Maven
 
 * Maven nice & easy - [Marco Behler on YouTube](https://www.youtube.com/watch?v=Xatr8AZLOsE)
