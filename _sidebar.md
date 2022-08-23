@@ -8,5 +8,6 @@
 [June 2022](https://gitlab.com/JohanSchoubben/learning-log/-/wikis/June-2022)   
 [July 2022](https://gitlab.com/JohanSchoubben/learning-log/-/wikis/July-2022)   
 [August 2022](https://gitlab.com/JohanSchoubben/learning-log/-/wikis/August-2022)         
+[September 2022](https://gitlab.com/JohanSchoubben/learning-log/-/wikis/September-2022)         
 [Planned](https://gitlab.com/JohanSchoubben/learning-log/-/wikis/Planned)  
 [Knowledge base](https://gitlab.com/JohanSchoubben/learning-log/-/wikis/Knowledge-base)  
