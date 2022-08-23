@@ -6,6 +6,11 @@
 
 * Spring Boot Reference Documentation - [Homepage](https://docs.spring.io/spring-boot/docs/2.7.2/reference/htmlsingle/)
 
+### Security
+
+* Security Knowledge Framework - [Homepage](https://securityknowledgeframework.org/)
+* Security Knowledge Framework - [SKF Labs](https://owasp-skf.gitbook.io/asvs-write-ups/)
+
 ### Maven
 
 * Maven nice & easy - [Marco Behler on YouTube](https://www.youtube.com/watch?v=Xatr8AZLOsE)
