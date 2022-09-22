@@ -25,3 +25,8 @@
 ### Cloud
 
 * Azure Sandbox - Azure Cloud Platform Environment [on O'Reilly](https://learning.oreilly.com/scenarios/azure-sandbox/9781098140038/?utm_medium=email&utm_source=platform+b2b&utm_campaign=engagement&utm_content=whats+new+interactive+20220912)
+
+### Testing
+#### Books read
+
+* Java Unit Testing with JUnit 5: Test Driven Development with JUnit 5 - ([book on O'Reilly](https://learning.oreilly.com/library/view/java-unit-testing/9781484230152/))
