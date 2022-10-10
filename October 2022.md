@@ -50,3 +50,4 @@
 ### Architecture
 
 * Articles by Oskar Dudycz on Event Sourcing, CQRS & event-drive architecture ([on his website](https://event-driven.io/en/))
+* The power of REST - Greg Turnquist ([e-book])
