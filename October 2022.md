@@ -26,6 +26,7 @@
   * [SpringDeveloper](https://www.youtube.com/user/SpringSourceDev/videos)
   * [Spring Boot Learning](https://www.youtube.com/c/SpringBootLearning/featured)
 * Spring Boot startup extension points - Article from Gejiufelix [on Medium](https://medium.com/javarevisited/it-is-said-that-99-of-programmers-cannot-master-these-5-spring-boot-startup-extension-points-dbf4fcc301b2)
+* Interactive Spring Security challenge set [on O'Reilly](https://learning.oreilly.com/scenarios/spring-security-challenge/9781492096269/?utm_medium=email&utm_source=platform+b2b&utm_campaign=engagement&utm_content=whats+new+interactive+20221017)
 
 ### Maven
 
